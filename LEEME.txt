@@ -1,0 +1,3 @@
+Código de sistema de ventas copiado de los bloques de la guía HTML, sin modificar su contenido.
+Archivos JSON iniciados como listas vacías para comenzar desde cero.
+Ejecutar: python main.py
